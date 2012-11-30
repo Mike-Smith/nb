@@ -16,9 +16,10 @@
  * to objects in the lower layer.
  */
 namespace NB{
-#include "NB_math.h"
-#include "NB_phys.h"
-#include "NB_theory.h"
+#include "math/NB_math.h"
+#include "phys/NB_phys.h"
+#include "theory/NB_theory.h"
+#include "sys/NB_sys.h"
 }
 
 #endif
